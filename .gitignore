@@ -1,0 +1,10 @@
+/.git/
+/.DS_Store
+/composer.lock
+/vendor/
+/build/
+
+.phpunit.result.cache
+.project
+.settings
+.idea
